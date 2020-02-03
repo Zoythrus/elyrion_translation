@@ -858,7 +858,7 @@
  "gameitem.ready": "¡‡Σ‡Ɔa iΛπƆΣΛ!",
  "gameitem.ready.wait": "{0} iΛπƆΣΛ Ŧa§Σ",
  "gameitem.turn.your": "₺ȱ aiiπΛ",
- "gameitem.turn.or": "~~ŋ~ {0}",
+ "gameitem.turn.other": "~~ŋ~ {0}",
  "gameitem.gameover": "Ŧa§Σ mmΔƆ πȱπ, Ŧaπ Σ∫ỹr πȱπ.",
  "gameitem.pick": "{0}, þȱŦ ₺ȱ rŦƒΣ¦",
  "gameitem.start": "{0}, iΛπƆΣΛ Ŧa§Σ",
