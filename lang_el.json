@@ -944,10 +944,10 @@
 "friendlist.friendrequests": "ƒ₼i!₺r iƒ₼₼#",
  "friendlist.pendinginvitations": "~~ŋ~ iƒ₼₼#",
  "friendlist.rejectedinvitations": "₼₼!∑~a iƒ₼₼#",
- "friendlist.new.^earch": "∑∫ỹr",
+ "friendlist.new.Search": "∑∫ỹr",
  "friendlist.new.accept": "₼₼∑~a",
  "friendlist.new.reject": "₼₼!∑~a",
- "friendlist.new.results": "πȱ∫ȱπ#:",
+ "friendlist.new.Results": "πȱ∫ȱπ#:",
  "friendlist.requestrecieved": "ƒ₼i!₺r iƒ₼₼ ỹiiaΔ",
  "friendlist.requestaccepted": "ƒ₼i!₺r iƒ₼₼ ₼₼∑~a",
 
@@ -955,7 +955,7 @@
 
  "gameitem.start.wait": "~~ŋ~ {0} i^π#∑^ Ŧa§∑",
 
- "gamesettings.disableŦribes": "₼₼∑~a aƒ ₼₼!∑~a rŦƒ∑¦",
+ "gamesettings.disableTribes": "₼₼∑~a aƒ ₼₼!∑~a rŦƒ∑¦",
 
  "startmenu.quit": "πȱπ",
  "buttons.quit": "πȱπ",
