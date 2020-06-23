@@ -891,7 +891,7 @@
  "gameitem.kick.info": "₺ ƒ^ π∫∑^Ŧ∑ȱ {0} Ŧa§∑? þþ!§þ πỹa∑₼ ỹiiaΔ ∫§iΩΩi rŦƒ∑¦",
  "gameitem.kick.action": "π∫∑^Ŧ∑ȱ",
  "gameitem.slow": "₺ȱ ƒỹ!∫∑",
- "gameitem.slow.info": "{0} {1} πȱπ ₺₺§. r₺ƒ ȱŦỹa∑ŋŋ^ {2} ƒỹ∫∑?",
+ "gameitem.slow.info": "{0} {1} πȱπ ₺₺§. r₺ƒ ȱŦỹa∑ŋŋ^ {0} ƒỹ∫∑?",
  "gameitem.slow.action": "§∑a^∑∫",
  "gameitem.timeleft": "ȱ#ȱȱ",
  "gameitem.timeleft.info": "{0} ₺∑a^∑ {1} ŦŦr₺ŋ",
