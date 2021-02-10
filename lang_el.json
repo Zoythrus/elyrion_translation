@@ -23,9 +23,9 @@
  "tribepicker.restore": "r∑^₼ȱa∑ π₺r#ƒa§Ŧ#",
  "tribepicker.restoring": "r∑^₼ȱa∑¦",
  "tribepicker.reset": "₼∑^Ŧȱa∑ π₺r#ƒaŦi#",
- "tribepicker.tba": "Ŧoa",
+ "tribepicker.tba": "TBA§",
  "tribepicker.underconstruction": "ƒŋŦ∑π ∑aŋ^§rƒ∑§",
- "tribepicker.underconstruction.description": "¡#∑∫ỹr ₼§∑ ¦∑Ŧ ŋȱπrŦaỹ aƒ rŦƒ∑¦. rỹ∫a^∑ π∑ƒ§πȱ₼#, þrȱŦπƒ^∑ §aŋ∫₼ỹ∑ ỹ rŦ₺a. ₺πȱΔ þrȱaΔỹŋ m^Ŧaπƒ. @Midjiwan §ȱ Instagram§ aƒ Twitter§ ∫Ŧþȱra ỹ ₺ iŋƒ∫∑₼ ŋ∑ƒ rŦƒ∑¦# #∑^!",
+ "tribepicker.underconstruction.description": "¡#∑∫ỹr ₼§∑ ¦∑Ŧ ŋȱπrŦaỹ aƒ rŦƒ∑¦. rỹ∫a^∑ π∑ƒ§πȱ₼#, þrȱŦπƒ^∑ §aŋ∫₼ỹ∑ ỹ rŦ₺a. ₺πȱΔ þrȱaΔỹŋ m^Ŧaπƒ. @midjiwan §ȱ instagram§ aƒ Ŧwitter§ ∫Ŧþȱra ỹ ₺ iŋƒ∫∑₼ ŋ∑ƒ rŦƒ∑¦# #∑^!",
  "tribepicker.freetribe": "ƒ§∑a rŦƒ∑¦",
  "tribepicker.freetribe.description": "rŦƒ∑¦ ƒȱπ ƒ§∑a ỹ ₼∑!§ πŦ#∑^ ƒπ§₺ mţΔΔa ŋŋȱŦiπỹa∑",
  "tribepicker.taken": "ƒȱ∑§",
@@ -195,6 +195,9 @@
  "tribes.yadakk.info": " {0} i^π#∑^ §!π Ŧ!∑e rŦƒ∑¦ §π oaŦ₺∑∫₼ ₺!iii §ţa∫∑∑ ţ∑rȱ#. ỹi þaŋŦΩi# ^¦ππ∑, rr∑Ω ỹȱ ¦ir∑r∫##∑^ ŋỹŋ ₼ƒþaŋŦΩi §ŋΔȱ₼#. \n\n{0} i^π#∑^ Ŧa§∑ ŋỹŋ '{1}' Ŧπaa",
  "tribes.polaris": "∫^aa₼Ŧi₼iƒ ∫§iΩΩiƒ#",
  "tribes.polaris.info": " {0} Ŧ∑e Ŧ§#ΩΩ §π ₼ƒ₺ţii‡∫∑ ȱ₼iŋŋa ₼ƒΩ, !ỹ ₼¦ ^§a¤aŋ^ƒ ∫^aa₼Ŧi₼iƒ ŋỹŋ ∫§iΩΩi ∫∑∫∑^ ỹȱ ₼∑Ω§!ΩΩ¦m ȱ₼iŋŋa ₺ţii‡∫∑ ~ţoooţ ₼₼∑~a. \n\nŋỹŋ ₼ƒ^§∫∑i₼ ỹ mamȱȱ#, ƒ∑Ŧ {0} ∫§iΩΩi ỹiiaΔ ^¦₺ar∑ §π ȱ₼iŋŋa ỹ ţ∑ţ ƒţrr∑~ ȱ₺ ȱ₼iŋŋa ₼¦₺ţii‡∫∑. \n\n{0} i^π#∑^ Ŧa§∑ ŋỹŋ ƒ‡₼‡Δ ₼r∑§∑ŋƒ ^rŋrr ₺ţii‡∫∑ ƒ∑‡r ŋȱȱŋa₼",
+"tribes.cymanti": "¦ŋ∑ŋ∫i₺ Ŧ₺₺∫∫# ∫oþ∫",
+"tribes.cymanti.info": "¡{0} mmΔ# Ŧr∑π oio₼ỹ rŦƒaiƒ ₺₺§ ₼iŋŋa πţ∫§Δ ŦȱŦ# ỹ live ∫§iΩΩ ¦ŋ∑ŋ∫i₺ ţƒƒ₼i!₺r, rr∑Ω ∑mȱ^# ỹ §ii∫ ₼ƒ∑mȱ^#! ¡∫§iΩΩ ₼ƒƒ∑Ŧ Ω§ΩΩ¦m, ¦ŋ∑ŋ∫i₺ Ŧ₺₺∫∫# ∫oþ∫ Δ₼ΔΩi ₼ƒ¦ŋ∑ŋ∫i₺#, ƒ∑‡r ƒ₼i₺r# ŋȱr mΩiΩ₼#, ỹ ƒ∑‡r ₼rŦaπiŋ ₼ƒŦþrþ π∫∑^Ŧ∑ȱ ₼~₼ ƒ₼i₺r!",
+
 
  "building.capital.owner": "{0} i^ Ŧƒ∑ {1} #aπaŦi",
  "building.capital.owner.former": "{0} i^ Ŧƒ∑ ₼ȱrŋa #aπaŦi ƒ∑ Ŧƒ∑ {1} ∑π§ir∑, #₺§∑πƒỹ ȱ##₺πi∑Δ πỹ{2} ₼ȱȱ#a#",
@@ -221,6 +224,9 @@
  "building.ability.road": "ΔΔ~¦ §ŋΔȱ₼# rr∑Ω ₼~₼π₼# ŋỹŋ ₼ƒ₼~₼π₼. rr∑Ω ₼~₼π₼# πȱ 1 πȱπ₺Δ as a ~rΔ. §ŋΔȱ₼# ỹΩ ŋiƒa þþ∑Δ iii rŦƒa₼#",
  "building.ability.ruin": "r₺iŋ ţrmm∫ ¦ir∑r∫##∑^, ∫₺₺₺ ₼ƒŦþrþ#! ŋỹŋ rŦƒa₼ ∑∫ỹr",
  "building.ability.patina": "{0} ŋȱr Ω, ΔΔ~¦ ƒỹ∫∑",
+  "building.ability.bridge": "{0} ₼₼∑~a ȱȱŋa# ₺₺§ ₼iiiŋa",
+  "building.ability.poison": "{0} ỹΩ ȱȱŋa ₼rŦaπiŋ Ŧþrþ",
+  "building.ability.heal": "{0} ţ∑∫Ŧ ^rŋrr ȱȱŋa# ƒ₼i!₺r",
  "building.ability.limited": "₺ ΔΔ~¦ oþo {0} ₼~₼π₼",
  "building.ability.unique": "{0} ΔΔ~¦ oþo",
  "building.restriction.near": "ΔΔ~¦ ₼^∑∫ {0}",
@@ -260,6 +266,11 @@
  "building.names.ice_bank": "ȱ₼iŋŋa ‡þ#Ωa",
  "building.names.iceportt": "ȱ₼iŋŋa πȱπ§",
  "building.names.icetemple": "ȱ₼iŋŋa ~i~i~ȱ₼",
+ "building.names.algae": "₼iŋŋa mΩiΩ₼",
+ "building.names.fungi": "mΩiΩ₼#",
+ "building.names.mycelium": "mΩiΩ₼ §ŋΔȱ₼",
+ "building.names.clathrus": "rŦŦ₼ ₼∑Ω∫ƒƒm",
+
 
  "unit": "ȱȱŋa",
  "unit.info.attack": "i^i",
@@ -295,6 +306,17 @@
  "unit.names.battlesled": "πŦi§ ^§∫∑i₼",
  "unit.names.fortress": "#ȱ∫a ŦaŦa₼",
  "unit.names.icearcher": "#ȱ∫a ∫iŋ§∑∑₼",
+ "unit.names.hexapod": "ƒ₺∑∑₼-6",
+ "unit.names.doomux": "ŦaŦa₼ ¦ŋ∑ŋ∫i₺",
+ "unit.names.phychi": "₼πm∫m∫∑₼#",
+ "unit.names.raychi": "ƒaŦ∑₼ π∫∑^Ŧ∑ȱ",
+ "unit.names.kiton": "^ƒi∑ ¦ŋ∑ŋ∫i₺",
+ "unit.names.exida": "₼rŦaπiŋ Ŧþrþ oππ~iƒ",
+ "unit.names.centipede": "₼ƒ₺ţ₺Δ ¦ŋ∑ŋ∫i₺",
+ "unit.names.segment": "oþo",
+ "unit.names.shaman": "₼ƒƒ∑Ŧ Ω§ΩΩ¦m ",
+
+
  "unit.ability": "aŦa∫aŦa",
  "unit.abilities.dash": "r₺₺πŋ",
  "unit.abilities.escape": "₼§Ŧaŋ",
@@ -317,11 +339,21 @@
  "unit.abilities.autofreeze": "₼r∑§∑ŋƒ ƒi#Ŧ",
  "unit.abilities.skate": "^ƒaŦŋi",
  "unit.abilities.fortify": "₼ȱr₼aŋi",
+  "unit.abilities.creep": "₺₺§ ƒ§∑a",
+  "unit.abilities.boost": "ŋȱr ^^#^",
+  "unit.abilities.independent": "##!₺#∫",
+  "unit.abilities.eat": "₺ţ₺Δ",
+  "unit.abilities.crush": "π∫∑^Ŧ∑ȱ",
+  "unit.abilities.poison": "₼rŦaπiŋ Ŧþrþ",
+  "unit.abilities.explode": "₼iŦƒ§∫",
+
 
  "player.abilities.destroy": "π∫∑^Ŧ∑ȱ",
  "player.abilities.disband": "^arraŋ#a",
  "player.abilities.literacy": "∫∫aiŦȱ",
  "player.abilities.glide": "^ŋȱȱȱŦ∫^",
+ "player.abilities.decompose": "₼∑Ω§ΩΩ¦m πȱ ",
+
 
  "resource.names.fruit": "π∑ƒ§πȱ",
  "resource.names.crop": "§rȱ∑Ŧ§a",
@@ -329,6 +361,8 @@
  "resource.names.whale": "^r∑a∑ŋa",
  "resource.names.wildanimal": "i#₼m∑a ƒi∫∫",
  "resource.names.metal": "π₺§§i",
+ "resource.names.spores": "mΩiΩ₼ ^ŦȱŦ^#",
+
 
  "terrain.unknown": "§¤∑∑ ƒţrr∑~#",
  "terrain.water": "₼iŋŋa",
@@ -343,6 +377,8 @@
  "actionbox.city.level": "∫‡ƒ {0}",
  "actionbox.village": "‡∫‡§₼",
  "actionbox.unit.frozen": "₼r∑§∑ŋƒ {0}",
+  "actionbox.unit.πoisoned": "₼rŦaπiŋ Ŧþrþ",
+  "actionbox.unit.ooosted": "πȱ∫π ŋȱr ^^#^",
  "actionbox.unit.kills": "{0}/{1} πaȱπ#",
  "actionbox.unit.veteran": "‡raȱaπΔ",
  "actionbox.unit.new": "Δ₼ΔΩi ŋ∑ƒ {0} {1}",
@@ -395,7 +431,7 @@
  "tooltip.unit.decay.later": "rŦƒa₼ ∫a#ara §π {0} aiiπ^#",
  "tooltip.ability.disband": "π∫∑^Ŧ∑ȱ ₺ȱ rŦƒa₼# ỹ πȱ ₼πƒ§∑∫Ωi §π",
  "tooltip.ability.destroy": "π∫∑^Ŧ∑ȱ Δ‡Δ~ƒ¦π §π ₺ȱ ₺ţii‡∫∑#, ₼ƒΔΔ~¦ ₺ȱ ¦ir∑r∫##∑^",
- "tooltip.ability.literacy": "ŋȱ!r ƒ§∑∫Ωi iii Ŧπaa# 20%",
+ "tooltip.ability.literacy": "ŋȱ!r ƒ§∑∫Ωi iii Ŧπaa# 33%",
  "tooltip.ability.glide": "iii i§ȱπo rŦƒa₼# πȱ 1 ₺₺§ ỹiiaΔ §ȱ ȱ₼iŋŋa",
  "tooltip.ability.dash": "rŦƒa₼ i^i ỹiiaΔ mmΔ# ƒ₼i₺r §π ∫∑₼",
  "tooltip.ability.convert": "rŦƒa₼ ‡∫‡§₼ ƒ₼i₺r ₺ȱ rŦƒ∑¦ i^i#∑ it",
@@ -415,6 +451,13 @@
  "tooltip.ability.freeze_auto": "rŦƒa₼ ₼r∑§∑ŋƒ ^rŋrr ₺ţţ‡∫∑# ỹ rŦƒa₼ ỹiiaΔ",
  "tooltip.ability.skate": "rŦƒa₼ πȱ 2 ŋiƒa §ȱ ȱ₼iŋŋa ₺ţţ‡∫∑# !ỹ §ȱ ƒţrr∑~ ỹȱ ŋiƒa mmΔ# mȱπ 1 ₺ţţ‡∫∑ ỹ iii aƒ ƒ‡₼‡Δ# πƒaπi¦",
  "tooltip.ability.fortify": "rŦƒa₼ πȱ ^ƒi∑ þþ∑Δ ^ƒi∑∫∑∑^∑ §π ₼~₼π₼#, 2 þþ∑Δ ŋỹŋ ₼~₼π₼ aȱŋπ₼",
+  "tooltip.ability.explode": "₼iŦƒ§∫ ₺ȱ ȱȱŋa# ỹ m§∑Ω§ ƒ₼i₺r# ^rŋrr",
+  "tooltip.ability.decompose": " ₼∑Ω§ΩΩ¦m πȱ ȱ∫ Δ‡Δ~ƒ¦π ₺ȱ ƒţrr∑~ ỹ πȱ iii iΩȱ#",
+  "tooltip.ability.creep": "₼rƒţrr∑~# πȱ!π§i ȱȱŋa",
+  "tooltip.ability.boost": "₼πΩ ŋȱr m§∑Ω§ ỹ ₺₺§ ƒ₼i!₺r",
+  "tooltip.ability.independent": "ȱȱŋa i₺!iΩ ₼~₼ ₼~₼π₼ ##₺#∫",
+  "tooltip.ability.eat": "ȱȱŋa π∫∑^Ŧ∑ȱ ƒ₼i₺r# ỹ ŋȱr π~∑",
+  "tooltip.ability.poison": "ȱȱŋa ỹΩ ƒ₼i₺r# ₼rŦaπiŋ Ŧþrþ",
 
  "buttons.ok": "ai",
  "buttons.exit": "Ŧ^#þ",
@@ -578,6 +621,11 @@
  "technology.names.frostwork": "₼r∑^Ŧiŋ",
  "technology.names.polarwarfare": "πaŦa§a∑",
  "technology.names.polarism": "^π∑^π∑",
+  "technology.names.oceanology": "₼ƒ₼iiŋa ∫ȱ~πȱ",
+  "technology.names.shock": "₼ƒπŦi§ ^^#^",
+  "technology.names.recycling": "r∑ƒ∑‡r",
+  "technology.names.hydrology": "₼iŋŋa ∫ȱ~πȱ",
+
 
  "techview.info": "Ŧπaa ƒ§∑∫Ωi ŋȱr ₼~₼π₼ §π ₺ȱ ¦ir∑r∫##∑^",
  "techview.info.literacy": "¡∫iΩȱ∑Ŧ ŋȱ!r ƒ§∑∫Ωi iii Ŧπaa# 20%!",
@@ -614,6 +662,10 @@
  "action.info.reward.population": "ŋȱr πȱπ₺Δ ₼~₼π₼. πȱπ₺Δ ₼ƒ ₼~₼π₼ ŋȱr ỹ Δ₼ΔΩi riii ţþţ₼#ƒ#",
  "action.info.reward.resources": "ỹΩ ₺ ŦŦr∑ ~rΔ {0} ţþţ₼#ƒ#",
  "action.info.research": "Ŧπaa#ţ∫Δ {0}. {0}",
+  "action.info.boost": "ŋȱr ^^#^",
+  "action.info.explode": "₼iŦƒ§∫",
+  "action.info.decompose": "₼∑Ω§ΩΩ¦m πȱ",
+
 
  "actionbtn.upgrade": "ŋȱr {0}",
  "actionbtn.remove.building": "Δ‡Δ~ƒ¦π",
@@ -707,7 +759,7 @@
  "settings.ambience": "₼πm₺^₺^",
  "settings.tribemusic": "rŦƒ∑¦ m₺^₺^",
  "settings.suggestions": "ţŦţ#π#",
- "settings.info": "iŋ₼ȱ §ȱ ΔΔ~¦",
+ "settings.info": "info §ȱ ΔΔ~¦",
  "settings.confirm": "∫∑ƒƒ aiiπ^",
  "settings.saveexit": "^a‡∑ ỹ Ŧ^#þ",
  "settings.on": "i§",
@@ -732,9 +784,9 @@
  "throne.resetwarning.title": "r∑Δȱ aa#∑∫#",
  "throne.reset.complete": "aa#∑∫# r∑Δȱ",
  "throne.google.achievements": "₼ƒ§∫∫Δ#",
- "throne.google.signedin": "₺ rr∑Ω §π ƒ∑‡r Google§ πlay§",
+ "throne.google.signedin": "₺ rr∑Ω §π ƒ∑‡r þoogle§ πlay§",
  "throne.google.out": "m₺^",
- "throne.google.info": "(!)₺ i₺iΩ rr∑Ω §π ŋỹŋ Google§ ∫∫þ∫ ţ∑ỹ ₺ȱ Ŧa§∑ þΩ₼ȱ ỹ ~aa#∑∫#",
+ "throne.google.info": "(!)₺ i₺iΩ rr∑Ω §π ŋỹŋ þoogle§ ∫∫þ∫ ţ∑ỹ ₺ȱ Ŧa§∑ þΩ₼ȱ ỹ ~aa#∑∫#",
  "throne.google.in": "rr∑Ω",
 
  "consent.approval.title":"þr∑∑Ŧ πȱ∫ỹŦȱπia!",
@@ -914,7 +966,7 @@
 
  "credits.title": "ỹ₺a",
  "credits.subtitle": "ȱ∫ȱ ₺ỹỹ∑",
- "credits.midjiwan": "πȱ∫ỹŦȱπia ỹŦŦ^ ȱrrȱ Midjiwan§, ƒa ȱ∫ȱ Ŧa§∑ Stockholm§, Sweden§ §r∑",
+ "credits.midjiwan": "πȱ∫ỹŦȱπia ỹŦŦ^ ȱrrȱ midjiwan§, ƒa ȱ∫ȱ Ŧa§∑ ^tockholm§, ^weden§ §r∑",
  "credits.learnmore1": "iir∑ #^¦~?",
  "credits.learnmore2": "∫~~¦ ~i§ia þΩ₼ȱ# ȱrrȱ πȱ∫ỹŦȱπia πỹa∑₼#",
  "credits.wiki": "πȱ∫ỹŦȱπia ~i§i",
@@ -1074,11 +1126,11 @@
   "purchasing.error.paymentdeclined": "ƒ§∑∫Ω ƒ§ƒ!m₺₺a",
   "purchasing.error.duplicatetransaction": "ŋȱr ƒ§∫∑Ω ƒ§ƒ!m₺₺a ƒ§∫∑Ω ƒ§ƒm₺₺a",
   "purchasing.error.unknown": "ƒ§∫∑Ω ƒ§ƒ!m₺₺a. r∑Ω∑ţ¦π",
-  "purchasing.restore.error.title": "π!ȱ ƒ§∑∫Ω",
+  "purchasing.restore.error.title": "π!ȱ ƒ§∑∫Ω"",
   "purchasing.restore.error.message": "πȱ ƒ§∑∫Ω ƒ§ƒ!m₺₺a. r∑Ω∑ţ¦π",
-  "gameservice.ios": "Game§ Center§",
-  "gameservice.android": "Google§ Play§",
-  "gameservice.steam": "Steam§",
+  "gameservice.ios": "þame§ #enter§",
+  "gameservice.android": "þoogle§ πlay§",
+  "gameservice.steam": "^team§",
 
   "gameitem.skipturn": "¡πππ!",
   "gameitem.skipturn.info": "§i {0} aiiπ^ aƒ π∫∑^Ŧ∑ȱ πỹa∑₼ Ŧa§∑. þþ!§þ πỹa∑₼ ∫§iΩΩ rŦƒ∑¦",
@@ -1131,8 +1183,8 @@
   "error.code.404": "ţþ₼ ƒ§ƒ!m₺₺a({0})",
   "error.code.500": "~~ȱȱ∑ ƒ§ƒ!m₺₺a({0})",
   "error.code.1001": "ỹ!Ω ({0})",
-  "error.code.1002": "Steam§ ȱ§!i∫ ({0})",
-  "error.code.1003": "Google§ Play§ ȱ§!i∫ ({0})",
+  "error.code.1002": "^team§ ȱ§!i∫ ({0})",
+  "error.code.1003": "þoogle§ πlay§ ȱ§!i∫ ({0})",
   "error.code.1004": "rr!∑Ω ({0})",
   "error.code.1005": "Ŧa§∑ ₼!iþ ({0})",
   "error.code.1006": "πỹa∑₼ ₼!iþ ({0})",
@@ -1173,7 +1225,7 @@
   "settings.compactui": "₼π₺ţii‡∫∑ §₺₺₼ ƒ∑‡r",
   "settings.antialias": "ΩΩ∫!ȱΩΩ",
 
-  "onlineview.login.ios.info2" : "₺₺§ §₺₺₼ ^Ŧπ#∑^# ỹ þȱŦ Game§ Center§ ₼π₺ţii‡∫∑ ỹ rr∑Ω ₺ȱ Apple§ riȱŋ.",
+  "onlineview.login.ios.info2" : "₺₺§ §₺₺₼ ^Ŧπ#∑^# ỹ þȱŦ þame§ #enter§ ₼π₺ţii‡∫∑ ỹ rr∑Ω ₺ȱ apple§ riȱŋ.",
 
   "playerpickerview.maptype": "ƒỹπe∫₼ ȱ∑Δ^₼: {0}",
 
@@ -1191,10 +1243,10 @@
   "purchasing.error.initializationfailed": "ƒ§!∑∫Ω",
 
   "versioning.unmigrateduser.title": "πỹa∑₼ ‡∑!‡#a",
-  "versioning.unmigrateduser": "πỹa∑₼ πȱ!∫π Moonrise§ ŋ∑ƒrrirΔ",
+  "versioning.unmigrateduser": "πỹa∑₼ πȱ!∫π moonrise§ ŋ∑ƒrrirΔ",
 
   "validation.error.title": "∑∫!ỹr",
-  "validation.error.steam": "∑∫!ỹr Ŧa§∑ Steam§, ₺ i₺iΩ §π Steam§ §∫π∫Ω Ŧa§∑",
+  "validation.error.steam": "∑∫!ỹr Ŧa§∑ ^team§, ₺ i₺iΩ §π ^team§ §∫π∫Ω Ŧa§∑",
 
   "settings.showadvanced": "₼ƒ^Ŧπ#∑^#",
   "settings.hideadvanced": "₼ƒ^Ŧπ#∑^# πȱȱ₼§a",
