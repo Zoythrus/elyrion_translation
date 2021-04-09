@@ -177,7 +177,7 @@
 "tribes.hoodrick":"∫iŋ§iƒ ^πȱȱiƒ#",
 "tribes.hoodrick.info":"Δ∑^¦ π∫þŦ m₺^ {0} ŦȱŦ# πþŦ₺r₼ ₼~₼# ₺þþţ∫ mΩiΩπ₼ ₺ţ₺Δ πȱπ₺Δ. \n\n{0} i^π#∑^ Ŧa§∑ ŋỹŋ '{1}' Ŧπaa",
 "tribes.luxidoor":"ƒ§∑∫Ω πȱȱƒiƒ#",
-"tribes.luxidoor.info":"{0} ¦ir∑r∫# ∫₺₺₺ Ω§∑§ π‡∫Δ, ţƒ#Ω §π ƒƒȱƒ ţþỹr. !ỹ ỹi ¦∑∑Ωm §!π aȱŋπ₼# ỹȱ ỹţπţȱ~ȱ ₼ƒ₼~₼π₼? \n\n{0} i^π#∑^ Ŧa§∑ ŋỹŋ ₼ƒ₼ƒ₼~₼π₼",
+"tribes.luxidoor.info":" {0} ¦ir∑r∫# ∫₺₺₺ Ω§∑§ π‡∫Δ, ţƒ#Ω §π ƒƒȱƒ ţþỹr. ¿!ỹ ỹi ¦∑∑Ωm §!π ỹȱ ỹţπţȱ~ȱ ₼ƒ₼~₼π₼? \n\n{0} i^π#∑^ Ŧa§∑ ŋỹŋ ₼ƒ₼ƒ₼~₼π₼",
 "tribes.vengir":"π₺§§i π∫∑^Ŧ∑ȱiƒ#",
 "tribes.vengir.info":"ỹţπ!ţȱ~ȱ aƒ rŦƒ∑¦# ỹ Ŧƒ§∫ ȱ₺ ₼rƒţrr∑~. ỹi ₼₼∑~a ƒ₺!^i§ aƒ ŋȱr ỹ πŦi§? \n\n{0} i^π#∑^ Ŧa§∑ ŋỹŋ '{1}' Ŧπaa ỹ Ŧȱ~a πȱ§§a",
 "tribes.zebasi":"π∫ȱƒŦiƒ rŦƒaiƒ#",
@@ -379,9 +379,9 @@
 "actionbox.city":"₼~₼π₼ {0}",
 "actionbox.city.level":"∫‡ƒ {0}",
 "actionbox.village":"‡∫‡§₼",
-"actionbox.unit.Frozen":"₼r∑§∑ŋƒ",
+"actionbox.unit.₼rozen":"₼r∑§∑ŋƒ",
 "actionbox.unit.Poisoned":"₼rŦaπiŋ Ŧþrþ",
-"actionbox.unit.Boosted":"πȱ∫π ŋȱr ^^#^",
+"actionbox.unit.ooosted":"πȱ∫π ŋȱr ^^#^",
 "actionbox.unit.kills":"{0}/{1} πaȱπ#",
 "actionbox.unit.veteran":"‡raȱaπΔ",
 "actionbox.unit.new":"Δ₼ΔΩi ŋ∑ƒ {0} {1}",
@@ -887,7 +887,7 @@
 "friendlist.new.myself.title":"₺ƒ ỹ ỹȱ",
 "friendlist.new.myself.info":"~∑∑∫ ₺ Δȱ ŋȱr ₺ȱ ƒ₼i!₺r. ₼¦m₺^₺^ Ŧþrþ !ỹ ŋȱr ∫‡ƒ Ŧa§∑ ₼∑!§ πȱ. ỹΩ πỹa∑₼ ΩȱΩ rŦƒa₼",
 "friendlist.new.empty.title":"mmoΩ∑∑rΩ",
-"friendlist.new.empty.info":"πỹa∑₼ iΔ ₺ ỹΩ ∑þþ ! ! ₺ ȱ§i∫ ƒ₼i!₺r# ŋỹŋ !, mmΔ# ₼ƒ1 §ŋΔȱ₼",
+"friendlist.new.empty.info":" ¡πỹa∑₼ iΔ ₺ ỹΩ ∑þþ !! ₺ ȱ§i∫ ƒ₼i!₺r# ŋỹŋ !, mmΔ# ₼ƒoþo §ŋΔȱ₼",
 "friendlist.new.exists.title":"2 πỹa∑₼",
 "friendlist.new.exists.info":"₺ ƒ₼i!₺r# ŋỹŋ{0}",
 "friendlist.new.looking.title":"ƒ§§π πỹa∑₼",
@@ -990,6 +990,7 @@
 "credits.os":"ȱ^",
 "credits.screendpi":"ƒƒ∑ ŋŋƒ",
 "credits.screensize":"ƒƒ∑ π~∑",
+"credits.device": "§₺₺₼",
 "credits.privacy":"∫∫∑π#^ ∑^^π",
 "credits.terms":"₼∑r∑^ #∑ππ∑",
 
@@ -1263,7 +1264,16 @@
 "notifications.restorecomplete":"{0} ţ∑∫Ŧ Ŧþrþ#",
 
 "migration.restoreheader":"ţ∑∫Ŧ?",
-"migration.restoredescription":"rŦƒ∑¦# ƒ§∑∫Ω i₺iΩ ţ∑∫Ŧ ţƒ!#Ω §π ŋ∑ƒ πȱ∫ỹŦȱπia"
+"migration.restoredescription":"rŦƒ∑¦# ƒ§∑∫Ω i₺iΩ ţ∑∫Ŧ ţƒ!#Ω §π ŋ∑ƒ πȱ∫ỹŦȱπia",
 
+"push.picktribe": "¡þȱŦ ₺ȱ rŦƒ∑¦# {0}!",
+"push.invited": "₺ iƒ₼₼# ŋ∑ƒ Ŧa§∑, {0}",
+"push.randommatchready": "¡‡∑‡#a oþţo∑þ₼Δ Ŧa§∑ {0}!",
+"push.readytostart": "¿§∫π∫Ω ₼₼∑~a {0} Ŧa§∑?",
+"push.skipped": "₺ȱ ₼ƒƒỹ!∫∑ ỹ §i aiiπ^ {0}. ¿₼₼∑~a #ȱȱ^Ω ∫∫þ∫?",
+"push.reminder": "~~ŋ~ ₺ ∫∫þ∫ {0}. ¡πππ!",
+"push.kicked": "π∫∑^Ŧ∑ȱ ₺ Ŧa§∑ {0}",
+"push.ended": "Ŧa§∑ {0} π∫∑^Ŧ∑ȱ. ¡∑∫ỹr ∑∑π∫!",
+"push.yourturn": "₺ȱ aiiπ^ Ŧa§∑ {0} (aiiπ^ {1})"
 
 }
